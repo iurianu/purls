@@ -7,7 +7,7 @@ author: iurianu
 post_excerpt: ""
 layout: post
 permalink: >
-  http://purls.site/uncategorised/how-to-create-a-schema-org-accountingservice-markup/
+  http://purls.site/schema-org/how-to-create-a-schema-org-accountingservice-markup/
 published: true
-post_date: 2018-11-12 21:01:47
+post_date: 2017-03-23 21:01:47
 ---
