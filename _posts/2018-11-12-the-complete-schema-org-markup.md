@@ -19,5 +19,7 @@ Weren't microformats good enough, why create another system?
 
 Well, yes, anyone could ask all these questions before finding what is schema.org, why it was created, and why the Search Engines supported it, and will continue to support it even more.
 
-So, let's start with the beginning:
+<h4>So, let's start with the beginning:</h4>
 <q>Schema.org is a collaborative community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. Webmasters use this shared vocabulary to structure metadata on their websites and to help search engines understand the published content. (<cite><a href="https://en.wikipedia.org/wiki/Schema.org" rel="nofollow tag" title="Wikipedia, the Free Encyclopedia">Wikipedia</a></cite>)</q>
+
+Now that we got its definition, let's explain a bit what it really does.
