@@ -23,12 +23,14 @@ Weren't microformats good enough, why create another system?
 ...and so on.
 
 Well, yes, anyone could ask all these questions before finding what is schema.org, why it was created, and why the Search Engines supported it, and will continue to support it even more.
-
 The Search Engines stated that websites with structured data markup added have a better chance of being noticed, and taken more seriously than the others.
 The implementation can be made in 2 different ways: as HTML attributes (RDFa or microdata), or as a JSON-LD script added in the head, or body of the website.
 
-In 2017 Google recommended the use of the JSON-LD format wherever possible, with no other explanations; therefore, people (mostly developers) chose this way of implementation as it was way simpler than adding attributes in the HTML content of the webpage.
+<h4>What can go wrong with Schema.org?</h4>
 
-<span class="note"><strong>Note:</strong> Given this recommendation, the same entity that issued this recommendation (Google) started to give penalties (like complete removal from the SERP) to more websites, stating that the structured data presented information which is not visible to visitors.</span>
+Sure, some things can go wrong if the implementation is incorrect, or even incomplete.
+In 2017 Google recommended the use of the JSON-LD format wherever possible, with no other explanations; therefore, people (mostly developers) chose this way of implementation as it was way simpler than adding attributes in the HTML content of the webpage.
+Given this recommendation, the same entity that issued this recommendation (Google) started to give penalties (like complete removal from the SERP) to more websites, stating that the structured data presented information which is not visible to visitors.
+Also, since structured data implementation, due to abuse, Google stopped showing images for many categories, but that won't be the case if your structured data is correct, and well implemented.
 
 <h4>What schemas are needed on a regular website?</h4>
