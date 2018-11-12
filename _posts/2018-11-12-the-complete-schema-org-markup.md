@@ -36,7 +36,8 @@ Also, since structured data implementation, due to abuse, Google stopped showing
 <h4>How so we stand out in the SERP?</h4>
 
 Here's, in fact, the true meaning of this article, where I tell you what you can get from a perfect implementation of schema.org markup.
-Let's start!!!
+
+<h4>Let's start!!!</h4>
 
 <h5>The Sitelink Searchbox</h5>
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
