@@ -40,7 +40,7 @@ Let's start!!!
 <section>
 <h5>The Sitelink Searchbox</h5>
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
-How do we get it? Very simple: we just have to add a small script in the <head> section of our website, to tell the Search Engines how the query has to be made, just like in the next example:
+How do we get it? Very simple: we just have to add a small script in the \&lt;head\&gt; section of our homepage, to tell the Search Engines how the query has to be made, just like in the next example:
 <pre>
 &lt;script type="application/ld+json"&gt;
 {
