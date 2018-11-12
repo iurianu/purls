@@ -11,7 +11,7 @@ post_date: 2017-03-21 20:56:22
 ---
 <h4>Typical microformats for webpages</h4>
 
-<figure><a href="http://purls.site/wp-content/uploads/2017/03/hentry-1.png"><img src="http://purls.site/wp-content/uploads/2017/03/hentry-1.png" alt="hatom hentry example" width="612" height="320" class="alignnone size-full wp-image-386" /></a></figure>
+<figure><a href="http://purls.site/wp-content/uploads/2017/03/hentry.png"><img src="http://purls.site/wp-content/uploads/2017/03/hentry.png" alt="hentry" width="612" height="320" class="alignnone size-full wp-image-81" /></a></figure>
 
 The typical microdata for a page needs only a few elements marked up; therefore, when you start marking up your page, these are the main marks you can use:
 <ol class="pointed">
