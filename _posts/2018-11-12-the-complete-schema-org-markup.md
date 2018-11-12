@@ -30,3 +30,5 @@ The implementation can be made in 2 different ways: as HTML attributes (RDFa or 
 In 2017 Google recommended the use of the JSON-LD format wherever possible, with no other explanations; therefore, people (mostly developers) chose this way of implementation as it was way simpler than adding attributes in the HTML content of the webpage.
 
 <span class="note"><strong>Note:</strong> Given this recommendation, the same entity that issued this recommendation (Google) started to give penalties (like complete removal from the SERP) to more websites, stating that the structured data presented information which is not visible to visitors.</span>
+
+<h4>What schemas are needed on a regular website?</h4>
