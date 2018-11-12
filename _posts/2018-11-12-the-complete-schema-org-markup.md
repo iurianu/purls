@@ -55,6 +55,9 @@ How do we get it? Very simple: we just have to add a small script in the <head> 
 }
 &lt;/script&gt;
 </pre>
+
+...and what do we get from it? Well, something like this:
+<a href="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png"><img src="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png" alt="Sitelink Searchbox" width="571" height="332" class="alignnone size-full wp-image-110" /></a>
 </section>
 
 <h4>What schemas are needed on a regular website?</h4>
