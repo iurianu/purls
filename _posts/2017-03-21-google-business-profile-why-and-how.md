@@ -34,21 +34,21 @@ As this kind of tutorial is not very often found on the internet, I'll just add 
 <li>Find or add your business on <a class="alternate-url" href="https://business.google.com/add?sab=1">Google Maps</a>: start typing your Business name in the Search Box, and if you don't see it on the map, you will get the option to add it.</li>
 </ol>
 
-<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/1-googleplus-choose-category.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/1-googleplus-choose-category.jpg" alt="Choose Google Business Category" width="967" height="586" class="alignnone size-full wp-image-366" /></a></figure>
+<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/1-googleplus-choose-category.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/1-googleplus-choose-category.jpg" alt="googleplus choose category" width="967" height="586" class="alignnone size-full wp-image-72" /></a></figure>
 
 <p class="note">Note: To create a Google Plus Company Page, you must first have a personal profile.</p>
 
-<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/2-googleplus-add-business-on-google-maps.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/2-googleplus-add-business-on-google-maps.jpg" alt="Add Business on Google Maps" width="967" height="527" class="alignnone size-full wp-image-368" /></a></figure>
+<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/2-googleplus-add-business-on-google-maps.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/2-googleplus-add-business-on-google-maps.jpg" alt="" width="967" height="527" class="alignnone size-full wp-image-73" /></a></figure>
 
 <ol class="pointed">
 <li>Under the "Edit Info" tab, add basic information: page name, external website, and audience.</li>
 <li>Customize your page by adding a profile photo, and a cover image.</li>
 </ol>
-<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/3-googleplus-add-name-website.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/3-googleplus-add-name-website.jpg" alt="Google Add Name Website" width="883" height="610" class="alignnone size-full wp-image-369" /></a></figure>
+<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/3-googleplus-add-name-website.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/3-googleplus-add-name-website.jpg" alt="" width="883" height="610" class="alignnone size-full wp-image-74" /></a></figure>
 
 <p class="note">Note: The cover photo works best if you have a photo of your product, company or brand that will promote and enhance your business.</p>
 
-<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/4-googleplus-profile-photo.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/4-googleplus-profile-photo.jpg" alt="Google Plus Profile Screen" width="974" height="323" class="alignnone size-full wp-image-370" /></a></figure>
+<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/4-googleplus-profile-photo.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/4-googleplus-profile-photo.jpg" alt="" width="974" height="323" class="alignnone size-full wp-image-75" /></a></figure>
 
 <ol class="pointed">
 <li>Under story, add a tagline: ten words that best describe your business.</li>
@@ -57,7 +57,7 @@ As this kind of tutorial is not very often found on the internet, I'll just add 
 <li>When you complete the basic information, you will begin using your administration dashboard to manage your new Google Plus page. You can now use the “About” section to fill in any additional information and the "Photos" section to add images of your Store, Products, and People.</li>
 </ol>
 
-<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/5-googleplus-add-photos.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/5-googleplus-add-photos.jpg" alt="Google Plus Add Photos" width="557" height="262" class="alignnone size-full wp-image-371" /></a></figure>
+<figure class="knk-figure"><a href="http://purls.site/wp-content/uploads/2017/03/5-googleplus-add-photos.jpg"><img src="http://purls.site/wp-content/uploads/2017/03/5-googleplus-add-photos.jpg" alt="" width="557" height="262" class="alignnone size-full wp-image-77" /></a></figure>
 
 <ol class="pointed">
 <li>Edit your Story to add an introduction to your page.</li>
