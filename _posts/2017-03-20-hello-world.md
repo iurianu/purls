@@ -99,7 +99,7 @@ or like this:
 <p class="note">Note: When declaring the type for your blog posts you can chose whatever sub-type of Article provided within the schema.org vocabulary.</p>
 
 <figure><figcaption>This is how Google's Structured Data Testing Tool reads your Blog Post now:</figcaption>
-<a href="http://purls.site/wp-content/uploads/2018/06/blogpost-errors-768x480.png"><img src="http://purls.site/wp-content/uploads/2018/06/blogpost-errors-768x480.png" alt="BlogPost Errors" width="768" height="480" class="alignnone size-full wp-image-324" /></a>
+<a href="http://purls.site/wp-content/uploads/2017/03/blogpost-errors.png"><img src="http://purls.site/wp-content/uploads/2017/03/blogpost-errors.png" alt="BlogPost Errors" width="913" height="571" class="alignnone size-full wp-image-59" /></a>
 </figure>
 Lower in this file, we see the next line:
 <pre>&lt;main id="main" class="site-main" itemprop="mainContentOfPage"  itemscope itemtype="http://schema.org/WebPageElement"&gt;
