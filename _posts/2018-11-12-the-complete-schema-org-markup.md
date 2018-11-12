@@ -40,6 +40,6 @@ Let's start!!!
 
 <h5>The Sitelink Searchbox</h5>
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
-To find mnore about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
+To find more about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
 
 <h4>What schemas are needed on a regular website?</h4>
