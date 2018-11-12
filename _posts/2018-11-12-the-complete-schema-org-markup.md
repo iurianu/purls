@@ -25,7 +25,7 @@ Well, yes, anyone could ask all these questions before finding what is schema.or
 Now that we got its definition, let's understand what it really does.
 
 The Search Engines stated that websites with structured data markup added have a better chance of being noticed, and taken more seriously than the others.
-The implementation can be made in 2 different ways: as HTML attributes (RDFa or microdata), or as a JSON-LD script added in the head , or body of the website.
+The implementation can be made in 2 different ways: as HTML attributes (RDFa or microdata), or as a JSON-LD script added in the head, or body of the website.
 
 In 2017 Google recommended the use of the JSON-LD format wherever possible, with no other explanations; therefore, people (mostly developers) chose this way of implementation as it was way simpler than adding attributes in the HTML content of the webpage.
 
