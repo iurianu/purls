@@ -33,4 +33,28 @@ In 2017 Google recommended the use of the JSON-LD format wherever possible, with
 Given this recommendation, the same entity that issued this recommendation (Google) started to give penalties (like complete removal from the SERP) to more websites, stating that the structured data presented information which is not visible to visitors.
 Also, since structured data implementation, due to abuse, Google stopped showing images for many categories, but that won't be the case if your structured data is correct, and well implemented.
 
+<h4>How so we stand out in the SERP?</h4>
+
+Here's, in fact, the true meaning of this article, where I tell you what you can get from a perfect implementation of schema.org markup.
+Let's start!!!
+<section>
+<h5>The Sitelink Searchbox</h5>
+The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
+How do we get it? Very simple: we just have to add a small script in the <head> section of our website, to tell the Search Engines how the query has to be made, just like in the next example:
+<pre>
+&lt;script type="application/ld+json"&gt;
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.example.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://query.example.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+&lt;/script&gt;
+</pre>
+</section>
+
 <h4>What schemas are needed on a regular website?</h4>
