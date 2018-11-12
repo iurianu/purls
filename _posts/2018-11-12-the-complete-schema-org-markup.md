@@ -37,27 +37,9 @@ Also, since structured data implementation, due to abuse, Google stopped showing
 
 Here's, in fact, the true meaning of this article, where I tell you what you can get from a perfect implementation of schema.org markup.
 Let's start!!!
-<section>
+
 <h5>The Sitelink Searchbox</h5>
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
-How do we get it? Very simple: we just have to add a small script in the <span>&lt;</span>head<span>&gt;</span> section of our homepage, to tell the Search Engines how the query has to be made, just like in the next example:
-<pre>
-&lt;script type="application/ld+json"&gt;
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "http://www.example.com/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "http://query.example.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-&lt;/script&gt;
-</pre>
-
-...and what do we get from it? Well, we can get something like this:
-<a href="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png"><img src="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png" alt="Sitelink Searchbox" width="571" height="332" class="alignnone size-full wp-image-110" /></a>
-</section>
+To find mnore about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
 
 <h4>What schemas are needed on a regular website?</h4>
