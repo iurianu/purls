@@ -20,10 +20,10 @@ Now that we got its definition, let's understand what it really does.
 Isn't our website good enough for the Search Engines to be considered important?
 Why is there a need for a supplementary code to be added to a website?
 Weren't microformats good enough, why create another system?
-...and so on.
+...and questions could go on.
 
 Well, yes, anyone could ask all these questions before finding what is schema.org, why it was created, and why the Search Engines supported it, and will continue to support it even more.
-The Search Engines stated that websites with structured data markup added have a better chance of being noticed, and taken more seriously than the others.
+The Search Engines stated that websites with structured data markup added get a better notability, and are considered more serious than the others.
 The implementation can be made in 2 different ways: as HTML attributes (RDFa or microdata), or as a JSON-LD script added in the head, or body of the website.
 
 <h4>What can go wrong with Schema.org?</h4>
