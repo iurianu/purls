@@ -26,7 +26,7 @@ Before starting using this tutorial, I advice you install <a href="https://yoast
 </pre>
 <p class="note">This script will create the content required for this markup using the information on your website; you can copy it right from the above, and paste it into your <em>header.php</em> file.</p>
 Maybe you're wondering what this markup does, and what is it used for; well, it allows the search engines to create sitelinks foryour pages, so your results in the SERP (Search Engine Results Page) will look like in this picture.
-<figure><a href="http://purls.site/wp-content/uploads/2018/06/sitelinks.png"><img class="alignnone size-full wp-image-330" src="http://purls.site/wp-content/uploads/2018/06/sitelinks.png" alt="Sitelinks" width="601" height="181" /></a></figure>
+<figure><a href="http://purls.site/wp-content/uploads/2017/03/SEW-sitelinks.png"><img src="http://purls.site/wp-content/uploads/2017/03/SEW-sitelinks.png" alt="Sitelinks" width="662" height="337" class="alignnone size-full wp-image-66" /></a></figure>
 </section>&nbsp;
 
 <section>
