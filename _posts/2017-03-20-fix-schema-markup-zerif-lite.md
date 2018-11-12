@@ -6,7 +6,8 @@ post_title: >
 author: iurianu
 post_excerpt: ""
 layout: post
-permalink: http://purls.site/hello-world/
+permalink: >
+  http://purls.site/fix-schema-markup-zerif-lite/
 published: true
 post_date: 2017-03-20 14:42:22
 ---
