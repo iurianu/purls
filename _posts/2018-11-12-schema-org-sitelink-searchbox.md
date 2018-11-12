@@ -10,6 +10,7 @@ published: true
 post_date: 2018-11-12 22:31:32
 ---
 How do we get the Sitelink Searchbox? 
+
 Very simple: we just have to add a small script in the <span>&lt;</span>head<span>&gt;</span> section of our homepage, to tell the Search Engines how the query has to be made, just like in the next example:
 
 <pre>
