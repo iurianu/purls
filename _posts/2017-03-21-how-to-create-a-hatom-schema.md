@@ -1,13 +1,13 @@
 ---
-ID: 379
+ID: 79
 post_title: How to create a hAtom Schema
 author: iurianu
 post_excerpt: ""
 layout: post
 permalink: >
-  https://purls.site/semantic-markup/microformats/how-to-create-a-hatom-schema/
+  http://purls.site/microformats/how-to-create-a-hatom-schema/
 published: true
-post_date: 2017-03-21 11:28:23
+post_date: 2017-03-21 20:56:22
 ---
 <h4>Typical microformats for webpages</h4>
 
