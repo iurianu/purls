@@ -1,6 +1,6 @@
 ---
 ID: 92
-post_title: The Wonders Around Schema.org?
+post_title: The Wonders Around Schema.org
 author: iurianu
 post_excerpt: ""
 layout: post
