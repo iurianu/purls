@@ -33,7 +33,7 @@ In 2017 Google recommended the use of the JSON-LD format wherever possible, with
 Given this recommendation, the same entity that issued this recommendation (Google) started to give penalties (like complete removal from the SERP) to more websites, stating that the structured data presented information which is not visible to visitors.
 Also, since structured data implementation, due to abuse, Google stopped showing Rich Snippets for many categories, but that won't be the case if your structured data is correct, and well implemented.
 
-<h4>How so we stand out in the SERP?</h4>
+<h4>How do we stand out in the SERP?</h4>
 
 Here's, in fact, the true meaning of this article, where I tell you what you can get from a perfect implementation of schema.org markup.
 
