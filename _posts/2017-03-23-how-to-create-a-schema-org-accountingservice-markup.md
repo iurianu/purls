@@ -85,4 +85,8 @@ On the official schema.org website, the breadcrumb list for this particular type
 &lt;/script&gt;
 </p></pre>
 
-<a href="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png"><img src="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png" alt="schema.org" width="275" height="183" class="alignnone size-full wp-image-87" /></a>
+<hr>
+
+<figure class="figure-50"><a title="Schema.org Structured Data" href="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png"><img src="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png" alt="schema.org" width="275" height="183" class="alignnone size-full wp-image-87" /></a></figure>
+
+<hr>
