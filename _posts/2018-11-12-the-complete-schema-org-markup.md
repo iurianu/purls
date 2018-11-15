@@ -44,7 +44,6 @@ Here's, in fact, the true meaning of this article, where I tell you what you can
 
 <h5>The Sitelink Searchbox</h5>
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
-
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
 
 <h5>The SiteNavigationElement</h5>
@@ -70,5 +69,4 @@ Example:
 
 <h5>The Breadcrumbs</h5>
 The breadcrumbs are links to mark the path (in the website) to a specific page, collected in a BreadcrumbList. 
-
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-breadcrumbs/" target="_blank">this article</a> on how it's created!
