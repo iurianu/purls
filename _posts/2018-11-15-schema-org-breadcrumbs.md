@@ -39,5 +39,5 @@ The result of this implementation will be the change of the link in the Rich Sni
   <span class="pre-tag">}</span>
  <span class="pre-tag">]</span>
 <span class="pre-tag">}</span>
-<span class="pre-tag"></</span><span class="pre-tag">script</span><span class="pre-tag">></span>
+<span class="pre-tag"><</span><span class="pre-tag">/script</span><span class="pre-tag">></span>
 </pre>
