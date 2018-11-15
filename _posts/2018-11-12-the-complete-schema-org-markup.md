@@ -66,6 +66,8 @@ Example:
     <span class="pre-tag">&lt;/ul></span>
 </pre>
 
+<hr>
+
 <h5>The Breadcrumbs</h5>
 The breadcrumbs are links to mark the path (in the website) to a specific page, collected in a BreadcrumbList. 
 
