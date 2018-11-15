@@ -49,6 +49,6 @@ If you have a smaller website, for a Company, in example, your Sitelinks may loo
 
 <hr>
 
-<p class="buttonized"><a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">&laquo; &nbsp;Read more about schema.org</a></p>
+<p class="buttonized"><a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">Read more about schema.org</a></p>
 
 <hr>
