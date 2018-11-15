@@ -37,6 +37,12 @@ So, what do the Search Engines understand from this?
 targeted content:   <span class="pre-value"><span class="pre-tag">{</span>search_term_string<span class="pre-tag">}</span></span>
 </pre>
 
-...and what do we get from it? Well, we can get something like this:
+...and what do we get from it? 
+
+If you have a big website, preferably e-commerce, you can get a Sitelink series + a Searchbox, like in the example below:
 
 <a href="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png"><img src="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png" alt="Sitelink Searchbox" width="571" height="332" class="alignnone size-full wp-image-110" /></a>
+
+If you have a smaller website, for a Company, in example, your Sitelinks may look like in the following example:
+
+<a href="http://purls.site/wp-content/uploads/2018/11/Micropack-Sitelinks.png"><img src="http://purls.site/wp-content/uploads/2018/11/Micropack-Sitelinks.png" alt="" width="601" height="181" class="alignnone size-full wp-image-128" /></a>
