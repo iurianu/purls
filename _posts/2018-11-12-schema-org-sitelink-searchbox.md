@@ -28,6 +28,15 @@ Very simple: we just have to add a small script in the <span>&lt;</span>head<spa
 &lt;/script&gt;
 </pre>
 
+So, what do the Search Engines understand from this?
+
+<pre>
+    content type:   <span class="pre-value">Website</span>
+             url:   <span class="pre-value">http://example.com</span>
+          action:   <span class="pre-value">Search</span>
+targeted content:   <span class="pre-value"><span class="pre-tag">{</span>search_term_string<span class="pre-tag">}</span></span>
+</pre>
+
 ...and what do we get from it? Well, we can get something like this:
 
 <a href="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png"><img src="http://purls.site/wp-content/uploads/2018/11/lennox-Google-Search1-1.png" alt="Sitelink Searchbox" width="571" height="332" class="alignnone size-full wp-image-110" /></a>
