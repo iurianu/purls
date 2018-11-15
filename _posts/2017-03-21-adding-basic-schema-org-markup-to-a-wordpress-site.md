@@ -303,3 +303,9 @@ If you want to complete it even more, you can add properties as attributes on li
 <p class="note">Note: All the attributes added in the Edit mode will be lost whenever you switch to Visual mode, and back.</p>
 </blockquote>
 </section>
+
+<hr>
+
+<p class="buttonized"><a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">Read more about schema.org</a></p>
+
+<hr>
