@@ -25,16 +25,16 @@ The result of this implementation will be the change of the link in the Rich Sni
    "<span class="pre-type">@type</span>": "<span class="pre-value">ListItem",
    "<span class="pre-attr">position</span>": <span class="pre-value">1</span>,
    "<span class="pre-attr">item</span>":<span class="pre-tag">{</span>
-    "<span class="pre-type">@id</span>": "<span class="pre-value">https://example.com/dresses</span>",
-    "<span class="pre-attr">name</span>": "<span class="pre-value">Dresses</span>"
+    "<span class="pre-type">@id</span>": "<span class="pre-value">http://purls.site</span>",
+    "<span class="pre-attr">name</span>": "<span class="pre-value">SD Master</span>"
     <span class="pre-tag">}</span>
   <span class="pre-tag">}</span>,
   <span class="pre-tag">{</span>
    "<span class="pre-type">@type</span>": "<span class="pre-value">ListItem</span>",
    "<span class="pre-attr">position</span>": <span class="pre-value">2</span>,
    "<span class="pre-attr">item</span>":<span class="pre-tag">{</span>
-     "<span class="pre-type">@id</span>": "<span class="pre-value">https://example.com/dresses/real</span>",
-     "<span class="pre-attr">name</span>": "<span class="pre-value">Real Dresses</span>"
+     "<span class="pre-type">@id</span>": "<span class="pre-value">http://purls.site/Blog</span>",
+     "<span class="pre-attr">name</span>": "<span class="pre-value">Blog</span>"
    <span class="pre-tag">}</span>
   <span class="pre-tag">}</span>
  <span class="pre-tag">]</span>
