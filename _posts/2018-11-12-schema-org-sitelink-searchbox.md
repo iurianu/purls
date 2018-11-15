@@ -14,15 +14,15 @@ How do we get the Sitelink Searchbox?
 Very simple: we just have to add a small script in the <span>&lt;</span>head<span>&gt;</span> section of our homepage, to tell the Search Engines how the query has to be made, just like in the next example:
 
 <pre>
-<span class="pre-tag">&lt;</span>script type="<span class="pre-value">application/ld+json</span><span class="pre-tag">"&gt;</span>
+<span class="pre-tag">&lt;</span>script <span class="pre-attr">type</span>="<span class="pre-value">application/ld+json</span><span class="pre-tag">"&gt;</span>
 <span class="pre-tag">{</span>
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "http://www.example.com/",
-  "potentialAction": <span class="pre-tag">{</span>
-    "@type": "SearchAction",
-    "target": "http://query.example.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
+  "<span class="pre-type">@context</span>": "<span class="pre-value">http://schema.org</span>",
+  "<span class="pre-type">@type</span>": "<span class="pre-value">WebSite</span>",
+  "<span class="pre-attr">url</span>": "<span class="pre-value">http://www.example.com/</span>",
+  "<span class="pre-attr">potentialAction</span>": <span class="pre-tag">{</span>
+    "<span class="pre-type">@type</span>": "<span class="pre-value">SearchAction</span>",
+    "<span class="pre-attr">target</span>": "<span class="pre-value">http://query.example.com/search?q={search_term_string}</span>",
+    "<span class="pre-attr">query-input</span>": "<span class="pre-value">required name=search_term_string</span>"
   <span class="pre-tag">}</span>
 <span class="pre-tag">}</span>
 <span class="pre-tag">&lt;</span>/script<span class="pre-tag">&gt;</span>
