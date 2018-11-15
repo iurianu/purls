@@ -47,4 +47,4 @@ If you have a smaller website, for a Company, in example, your Sitelinks may loo
 
 <figure><a title="Micropack Automatizari Sitelinks" href="http://purls.site/wp-content/uploads/2018/11/Micropack-Sitelinks.png"><img src="http://purls.site/wp-content/uploads/2018/11/Micropack-Sitelinks.png" alt="" width="601" height="181" class="alignnone size-full wp-image-128" /></a></figure>
 
-<a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">Read more about schema.org</a>
+&laquo; &nbsp;<a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">Read more about schema.org</a>
