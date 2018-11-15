@@ -14,3 +14,30 @@ The creation of a Breadcrumblists is very simple, this being, in fact, a list of
 The result of this implementation will be the change of the link in the Rich Snippet to a list that presents the path for the page.
 
 <figure><a title="Breadcrumbs" href="http://purls.site/wp-content/uploads/2018/11/Breadcrumbs.png"><img src="http://purls.site/wp-content/uploads/2018/11/Breadcrumbs.png" alt="Breadcrumbs" width="525" height="93" class="alignnone size-full wp-image-139" /></a></figure>
+
+<pre>
+<span class="pre-tag"><</span><span class="pre-tag">script</span> <span class="pre-attr">type</span>="<span class="pre-value">application/ld+json</span>"<span class="pre-tag">></span>
+<span class="pre-tag">{</span>
+ "<span class="pre-type">@context</span>": "<span class="pre-value">http://schema.org</span>",
+ "<span class="pre-type">@type</span>": "<span class="pre-value">BreadcrumbList</span>",
+ "<span class="pre-attr">itemListElement</span>":<span class="pre-tag">[</span>
+  <span class="pre-tag">{</span>
+   "<span class="pre-type">@type</span>": "<span class="pre-value">ListItem",
+   "<span class="pre-attr">position</span>": <span class="pre-value">1</span>,
+   "<span class="pre-attr">item</span>":<span class="pre-tag">{</span>
+    "<span class="pre-type">@id</span>": "<span class="pre-value">https://example.com/dresses</span>",
+    "<span class="pre-attr">name</span>": "<span class="pre-value">Dresses</span>"
+    <span class="pre-tag">}</span>
+  <span class="pre-tag">}</span>,
+  <span class="pre-tag">{</span>
+   "<span class="pre-type">@type</span>": "<span class="pre-value">ListItem</span>",
+   "<span class="pre-attr">position</span>": <span class="pre-value">2</span>,
+   "<span class="pre-attr">item</span>":<span class="pre-tag">{</span>
+     "<span class="pre-type">@id</span>": "<span class="pre-value">https://example.com/dresses/real</span>",
+     "<span class="pre-attr">name</span>": "<span class="pre-value">Real Dresses</span>"
+   <span class="pre-tag">}</span>
+  <span class="pre-tag">}</span>
+ <span class="pre-tag">]</span>
+<span class="pre-tag">}</span>
+<span class="pre-tag"></</span><span class="pre-tag">script</span><span class="pre-tag">></span>
+</pre>
