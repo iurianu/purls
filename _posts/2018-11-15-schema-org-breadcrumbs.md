@@ -43,3 +43,9 @@ A simple code for a BreadcumbList looks like the one in the following example, a
 <span class="pre-tag">}</span>
 <span class="pre-tag"><</span><span class="pre-tag">/script</span><span class="pre-tag">></span>
 </pre>
+
+<hr>
+
+<p class="buttonized"><a href="http://purls.site/schema-org/the-complete-schema-org-markup/" target="_top">Read more about schema.org</a></p>
+
+<hr>
