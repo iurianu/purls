@@ -14,18 +14,18 @@ How do we get the Sitelink Searchbox?
 Very simple: we just have to add a small script in the <span>&lt;</span>head<span>&gt;</span> section of our homepage, to tell the Search Engines how the query has to be made, just like in the next example:
 
 <pre>
-&lt;script type="application/ld+json"&gt;
-{
+<span class="pre-tag">&lt;</span>script type="<span class="pre-value">application/ld+json</span><span class="pre-tag">"&gt;</span>
+<span class="pre-tag">{</span>
   "@context": "http://schema.org",
   "@type": "WebSite",
   "url": "http://www.example.com/",
-  "potentialAction": {
+  "potentialAction": <span class="pre-tag">{</span>
     "@type": "SearchAction",
     "target": "http://query.example.com/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
-  }
-}
-&lt;/script&gt;
+  <span class="pre-tag">}</span>
+<span class="pre-tag">}</span>
+<span class="pre-tag">&lt;</span>/script<span class="pre-tag">&gt;</span>
 </pre>
 
 So, what do the Search Engines understand from this?
