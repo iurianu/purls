@@ -43,4 +43,6 @@ Here's, in fact, the true meaning of this article, where I tell you what you can
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
 
-<h4>What schemas are needed on a regular website?</h4>
+<h5>The Breadcrumbs</h5>
+The breadcrumbs are actually links to mark the path (in the website) to a specific page, collected in a BreadcrumbList. 
+The creation of Breadcrumblists is very simple, these being, in fact, a list of Webpages defined as points, and the <a href="https://schema.org/BreadcrumbList" rel="nofollow">schema.org documentation on breadcrumbs</a> presents very good examples.
