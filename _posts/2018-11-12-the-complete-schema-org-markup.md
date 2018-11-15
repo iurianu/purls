@@ -43,6 +43,21 @@ Here's, in fact, the true meaning of this article, where I tell you what you can
 The sitelink searchbox is a feature implemented in schema.org, and can be obtained on any website, no matter its size, but with better chances for big websites, with lots of content.
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-sitelink-searchbox/" target="_blank">this article</a> on how it's created!
 
+<h5>The SiteNavigationElement</h5>
+
+The SiteNavigationElement is just an extra code (yet quite important) added on the website navigation section. Its sole purpose is to present the whole website structure to the Search Engines. It comes mapped on lists (ol, and ul) using the url, and the name of the specific target as points.
+Example:
+<pre>
+    <span class="pre-tag">&lt;ul</span> <span class="pre-attr">itemscope</span> <span class="pre-attr">itemtype</span>="<span class="pre-value">http://schema.org/SiteNavigationElement</span>"<span class="pre-tag">></span>
+        <span class="pre-tag">&lt;li</span> <span class="pre-attr">itemprop</span>="<span class="pre-value">name</span>"<span class="pre-tag">></span>
+            <span class="pre-tag">&lt;a</span> <span class="pre-attr">itemprop</span>="<span class="pre-value">url</span>" <span class="pre-attr">href</span>="<span class="pre-value">http://example.com/somepage/</span>"<span class="pre-tag">></span>Some Page<span class="pre-tag">&lt;/a></span>
+        <span class="pre-tag">&lt;</span><span class="pre-tag">/li</span><span class="pre-tag">></span>
+        <span class="pre-tag">&lt;li</span> <span class="pre-attr">itemprop</span>="<span class="pre-value">name</span>"<span class="pre-tag">></span>
+            <span class="pre-tag">&lt;a</span> <span class="pre-attr">itemprop</span>="<span class="pre-value">url</span>" <span class="pre-attr">href</span>="<span class="pre-value">http://example.com/otherpage/</span>"<span class="pre-tag">></span>Some Other Page<span class="pre-tag">&lt;/a></span>
+        <span class="pre-tag">&lt;/li></span>
+    <span class="pre-tag">&lt;/ul></span>
+</pre>
+
 <h5>The Breadcrumbs</h5>
 The breadcrumbs are links to mark the path (in the website) to a specific page, collected in a BreadcrumbList. 
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-breadcrumbs/" target="_blank">this article</a> on how it's created!
