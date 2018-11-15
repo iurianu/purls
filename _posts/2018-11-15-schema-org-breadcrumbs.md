@@ -15,6 +15,8 @@ The result of this implementation will be the change of the link in the Rich Sni
 
 <figure><a title="Breadcrumbs" href="http://purls.site/wp-content/uploads/2018/11/Breadcrumbs.png"><img src="http://purls.site/wp-content/uploads/2018/11/Breadcrumbs.png" alt="Breadcrumbs" width="525" height="93" class="alignnone size-full wp-image-139" /></a></figure>
 
+A simple code for a BreadcumbList looks like the one in the following example, and the recommended number of nodes is between 2, and 4.
+
 <pre>
 <span class="pre-tag"><</span><span class="pre-tag">script</span> <span class="pre-attr">type</span>="<span class="pre-value">application/ld+json</span>"<span class="pre-tag">></span>
 <span class="pre-tag">{</span>
