@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-11-12 21:46:13
 ---
-<figure><a href="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png"><img src="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png" alt="schema.org" width="275" height="183" class="alignnone size-full wp-image-87" /></a></figure>
+<figure class="figure-50"><a href="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png"><img src="http://purls.site/wp-content/uploads/2017/03/schema.org-markup-seo-search.png" alt="schema.org" width="275" height="183" class="alignnone size-full wp-image-87" /></a></figure>
 
 <h4>Let's start with the beginning:</h4>
 <q>Schema.org is a collaborative community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. Webmasters use this shared vocabulary to structure metadata on their websites and to help search engines understand the published content. (<cite><a href="https://en.wikipedia.org/wiki/Schema.org" rel="nofollow tag" title="Wikipedia, the Free Encyclopedia">Wikipedia</a></cite>)</q>
