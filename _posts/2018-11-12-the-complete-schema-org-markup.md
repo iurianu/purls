@@ -50,7 +50,7 @@ To find more about it, read <a href="http://purls.site/schema-org/schema-org-sit
 
 The SiteNavigationElement is just an extra code (yet quite important) added on the website navigation section. 
 
-Its sole purpose is to present the whole website structure to the Search Engines. It comes mapped on lists (ol, and ul) using the url, and the name of the specific target as points.
+Its sole purpose is to present the whole website structure to the Search Engines. It comes mapped on the menu lists (ol, and ul) using the url, and the name of the specific target as points.
 
 Example:
 
