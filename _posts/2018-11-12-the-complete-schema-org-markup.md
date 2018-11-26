@@ -48,9 +48,8 @@ To find more about it, read <a href="http://purls.site/schema-org/schema-org-sit
 
 <h5>The SiteNavigationElement</h5>
 
-The SiteNavigationElement is just an extra code (yet quite important) added on the website navigation section. 
+The SiteNavigationElement is just an extra code (yet quite important) added on the website navigation section. Its sole purpose is to present the whole website structure to the Search Engines.
 
-Its sole purpose is to present the whole website structure to the Search Engines.
 To find more about it, read <a href="http://purls.site/schema-org/schema-org-sitenavigationelement/" target="_blank">this article</a> on how it's created!
 
 <hr>
